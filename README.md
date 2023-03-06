@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Pedro-Berenguer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Berenguer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Berenguer&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Berenguer&layout=compact&langs_count=16/>
 </div>
   <h2>Linguagens Aprendidas</h2>
 <div style="display: inline_block">
